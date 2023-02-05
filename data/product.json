@@ -1,0 +1,68 @@
+[
+    {
+        "title":"Vivobook laptop - 16GB ram",
+        "models":"E78s",
+        "brand":"Asus",
+        "category":"laptop",
+        "description":"this is a greate laptop for gaming",
+        "price":54000,
+        "quentity":10,
+        "discountId":null,
+        "__V":0
+    },
+    {
+        "title":"microsoft surface",
+        "models":"hl12mkg",
+        "brand":"microsoft",
+        "category":"laptop",
+        "description":"this is a greate laptop for business",
+        "price":81000,
+        "quentity":2,
+        "discountId":null,
+        "__V":0
+    },
+    {
+        "title":"Ipad pro - 12 inch",
+        "models":"122812412",
+        "brand":"apple",
+        "category":"tablet",
+        "description":"this is a greate tablet for babies",
+        "price":14000,
+        "quentity":21,
+        "discountId":null,
+        "__V":0
+    },
+    {
+        "title":"logitech mouse gaming",
+        "models":"J78",
+        "brand":"logitech",
+        "category":"mouse",
+        "description":"this is a greate mouse for gaming",
+        "price":3300,
+        "quentity":34,
+        "discountId":null,
+        "__V":0
+    },
+    {
+        "title":"logitech keboard gaming",
+        "models":"k90e",
+        "brand":"logitech",
+        "category":"keyboard",
+        "description":"this is a greate keyboard for gaming and programming",
+        "price":1000,
+        "quentity":10,
+        "discountId":null,
+        "__V":0
+    },
+    {
+        "title":"sumsong airpod pro",
+        "models":"s12",
+        "brand":"sumsong",
+        "category":"headphone",
+        "description":"this is a greate headphone for listening music",
+        "price":5000,
+        "quentity":0,
+        "discountId":null,
+        "__V":0
+    }
+]
